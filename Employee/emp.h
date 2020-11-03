@@ -13,16 +13,16 @@ int insert(ArrayD *, int);
 int search(ArrayD *, int);
 
 void display(ArrayD *);
-int sum_of_array(ArrayD *);
+//int sum_of_array(ArrayD *);
 
-int maxmin(ArrayD *, int *max, int *min);
+//int maxmin(ArrayD *, int *max, int *min);
 
-int sort_ascending(ArrayD *);
-int reverse_array(ArrayD *);
+//int sort_ascending(ArrayD *);
+//int reverse_array(ArrayD *);
 
-int replace_element(ArrayD * , int, int);
-ArrayD * Merge_array(ArrayD *, ArrayD *);
-int sort_descending(ArrayD *);
+//int replace_element(ArrayD * , int, int);
+//ArrayD * Merge_array(ArrayD *, ArrayD *);
+//int sort_descending(ArrayD *);
 
-void search_by_pos(ArrayD *, int);
+//void search_by_pos(ArrayD *, int);
 
